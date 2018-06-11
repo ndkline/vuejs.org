@@ -32,4 +32,4 @@ order: 12
 
 ## Architecture Overview
 
-<img width="973" alt="Hackernew clone architecture overview" src="../../images/hn-architecture.png">
+[<img width="973" alt="Hackernew clone architecture overview" src="../../images/hn-architecture.png">](https://vuejs.org/images/hn-architecture.png)
